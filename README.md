@@ -13,9 +13,9 @@ A collection of my C++ programming projects and Python-based computational biolo
 | `heap-sort/` | Heap sort implementation and presentation |
 | `sort-comparison/` | Sorting algorithms and tests (Visual Studio project) |
 | `graph-functions/` | Graph-related functions and sample input |
-| `biological-modeling-m178/homework-1/` | Python simulations of phosphorylation cycles and kinase cascades |
-| `biological-modeling-m178/homework-2/` | Python simulations of scaffold proteins, prozone effects, and multisite phosphorylation |
-| `biological-modeling-m178/homework-3/` | Python simulations of caspase activation, FLIP feedback, and apoptosis thresholds |
+| `biological-modeling-m178/phosphorylation-cycles-and-kinase-cascades/` | Models how protein synthesis, degradation, cascade depth, and signal duration affect phosphorylation and kinase signaling |
+| `biological-modeling-m178/scaffold-signaling-and-multisite-phosphorylation/` | Compares scaffold-mediated kinase signaling, ordered binding, prozone effects, and multisite phosphorylation responses |
+| `biological-modeling-m178/caspase-activation-and-apoptosis-thresholds/` | Models caspase activation, feedback, and FLIP inhibition to explore thresholds for apoptosis |
 
 ## Notes
 
@@ -30,8 +30,8 @@ Only publish this repository if your course rules allow sharing past assignments
 
 ## M178 biological modeling
 
-Each homework folder contains a Jupyter notebook (`simulation.ipynb`) and a report (`report.pdf`). The Homework 2 report has email addresses redacted for privacy. Check course rules and collaborators' permission before making reports and starter notebooks public.
+Each project folder contains a Jupyter notebook (`simulation.ipynb`) and a report (`report.pdf`). The scaffold signaling report has email addresses redacted for privacy. Check course rules and collaborators' permission before making reports and starter notebooks public.
 
-### Homework 3 note
+### Caspase activation model note
 
-The Homework 3 report discusses solver warnings at extreme binding parameters. Interpret these exploratory simulations with that limitation in mind.
+The caspase activation report discusses solver warnings at extreme binding parameters. Interpret these exploratory simulations with that limitation in mind.
